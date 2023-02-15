@@ -80,8 +80,7 @@ const navSlide = () => {
 	});
 	
 	
-	
-	
   }
   
   navSlide();
+
